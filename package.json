@@ -80,9 +80,9 @@
     "timekeeper": "^0.1.1"
   },
   "dependencies": {
-    "redux-api-call-adapter-dedupe": "^1.0.0",
-    "redux-api-call-adapter-fetch": "^1.0.0",
-    "redux-api-call-adapter-json": "^1.0.0"
+    "redux-api-call-adapter-dedupe": "https://github.com/Thinkei/redux-api-call-adapter-dedupe#master",
+    "redux-api-call-adapter-fetch": "https://github.com/Thinkei/redux-api-call-adapter-fetch",
+    "redux-api-call-adapter-json": "https://github.com/Thinkei/redux-api-call-adapter-json"
   },
   "peerDependencies": {
     "redux": "^3.6.0 || ^4.0.0"
