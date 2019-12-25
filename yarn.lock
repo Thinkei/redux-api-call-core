@@ -2391,9 +2391,9 @@ locate-path@^2.0.0:
     path-exists "^3.0.0"
 
 lodash-es@^4.2.1:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.4.tgz#dcc1d7552e150a0640073ba9cb31d70f032950e7"
-  integrity sha1-3MHXVS4VCgZABzupyzHXDwMpUOc=
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.15.tgz#21bd96839354412f23d7a10340e5eac6ee455d78"
+  integrity sha512-rlrc3yU3+JNOpZ9zj5pQtxnx2THmvRykwL4Xlxoa8I9lHBlVbbyPhgyPMioxVZ4NqyxaVVtaJnzsyOidQIhyyQ==
 
 lodash@^4.14.0, lodash@^4.16.1, lodash@^4.2.0, lodash@^4.2.1:
   version "4.17.4"
@@ -2832,6 +2832,21 @@ read-pkg@^1.0.0:
     load-json-file "^1.0.0"
     normalize-package-data "^2.3.2"
     path-type "^1.0.0"
+
+"redux-api-call-adapter-dedupe@https://github.com/Thinkei/redux-api-call-adapter-dedupe#master":
+  version "1.0.0"
+  uid cf74418f8364916562a0864abd174786b7f80c63
+  resolved "https://github.com/Thinkei/redux-api-call-adapter-dedupe#cf74418f8364916562a0864abd174786b7f80c63"
+
+"redux-api-call-adapter-fetch@https://github.com/Thinkei/redux-api-call-adapter-fetch":
+  version "1.0.0"
+  uid "95de58c152daebfd96d8506dd0b98ac8b38531e4"
+  resolved "https://github.com/Thinkei/redux-api-call-adapter-fetch#95de58c152daebfd96d8506dd0b98ac8b38531e4"
+
+"redux-api-call-adapter-json@https://github.com/Thinkei/redux-api-call-adapter-json":
+  version "1.0.0"
+  uid "09dc3f5f7822e6ae06aee960f53e5d4f6dd4b744"
+  resolved "https://github.com/Thinkei/redux-api-call-adapter-json#09dc3f5f7822e6ae06aee960f53e5d4f6dd4b744"
 
 redux-mock-store@^1.2.0:
   version "1.2.3"
